@@ -2,7 +2,7 @@
 #### 
 My Name is Gabriel Cianni, I'm 23, living in Brazil and an almost-graduated Eletrical Engineer.
 
-I've worked in my university lab of Instrumentation Engineering for about 4 years, studying and applying Machine Learning Algorithms, for bio-signals analysis.
+I've worked in my university lab of Instrumentation Engineering for about 4 years, studying and applying Machine Learning Algorithms for bio-signals analysis.
 I currently working at the R&D department of the largest Brazilian PLC manufacturer. Acting in segments of new technologies such as robotics and computational intelligence for embedded systems
 
 Main for intent for this git is publishing my personal projects that helped me out learning emerging technologies 
