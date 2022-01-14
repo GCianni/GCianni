@@ -20,7 +20,6 @@ Here some ways you can contact me
  
 </div>
 
-
 <div align="center">
   <a href="https://github.com/GCianni">
    <!--
