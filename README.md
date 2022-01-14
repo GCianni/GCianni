@@ -9,7 +9,7 @@ Main for intent for this git is publishing my personal projects that helped me o
 
 Working on my Monograph: Induction Motor fault Detection using Metaclassifiers with Genetics Algorithm Hyperparameters Optimizer
 
-Here some ways, you can contact me
+Here some ways you can contact me
 <div>
 
   <a href = "mailto:cianni.gabriel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
