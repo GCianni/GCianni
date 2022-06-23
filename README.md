@@ -5,9 +5,9 @@ My Name is Gabriel Cianni, I'm 23, living in Brazil and an almost-graduated Elet
 I've worked in my university lab of Instrumentation Engineering for about 4 years, studying and applying Machine Learning Algorithms for bio-signals analysis.
 I currently working at the R&D department of the largest Brazilian PLC manufacturer. Acting in segments of new technologies such as robotics and computational intelligence for embedded systems
 
-Main for intent for this git is publishing my personal projects that helped me out learning emerging technologies 
+Main intent of this git is publishing my personal projects that helped me out learning emerging technologies 
 
-Working on my Monograph: Induction Motor fault Detection using Metaclassifiers with Genetics Algorithm Hyperparameters Optimizer
+Currently Working on my Monograph: Induction Motor fault Detection using Metaclassifiers with Genetics Algorithm Hyperparameters Optimizer
 
 Here some ways you can contact me
 <div>
@@ -33,7 +33,7 @@ Here some ways you can contact me
  ##
  
  <div style="display: inline_block"><br>
-    Langueges:
+    Languages:
       <img align="center" alt="GCnn-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
       <img align="center" alt="GCnn-RStudio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
       <img align="center" alt="GCnn-LabView" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg">
