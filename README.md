@@ -1,13 +1,14 @@
 # Hello there 💻📈
 #### 
-My Name is Gabriel Cianni, I'm 23, living in Brazil and an almost-graduated Eletrical Engineer.
+My Name is Gabriel Cianni, I'm 24, living in Brazil! I'm currently working as a Machine Learning Researcher currently responsible for develop intelligent models to optimize failure predicture in software's testing 
 
-I've worked in my university lab of Instrumentation Engineering for about 4 years, studying and applying Machine Learning Algorithms for bio-signals analysis.
-I currently working at the R&D department of the largest Brazilian PLC manufacturer. Acting in segments of new technologies such as robotics and computational intelligence for embedded systems
+Currently, I am pursuing a Master's degree in Electrical Engineering, specializing in the same field as my undergraduate studies.During my university years, I spent approximately four years working in the Electro-Electronic Instrumentation and Artificial Intelligence Lab (IEE-IA). During this time, I engaged in extensive research and practical applications of various Machine Learning algorithms for the analysis of bio-signals, including EMG and EEG data. IEE-IA played a pivotal role in my academic journey, serving as the home for my monograph. For my monograph project, I developed intelligent meta-classification systems for predicting faults in electric motors, employing state-of-the-art algorithms and advanced meta-heuristic techniques. My experience at IEE-IA not only solidified my knowledge in the field of Artificial Intelligence and Machine Learning but also allowed me to explore cutting-edge applications of these technologies in the domain of electrical engineering.
+
+Furthermore, I had the opportunity to work in the Research and Development department of the largest Brazilian PLC manufacturer. There, I was involved in cutting-edge projects related to new technologies, such as robotics and computational intelligence for embedded systems. 
+
+I am truly passionate about pushing the boundaries of technology and contributing to advancements in Electrical Engineering through my academic pursuits and professional experiences.
 
 Main intent of this git is publishing my personal projects that helped me out learning emerging technologies 
-
-Currently Working on my Monograph: Induction Motor fault Detection using Metaclassifiers with Genetics Algorithm Hyperparameters Optimizer
 
 Here some ways you can contact me
 <div>
