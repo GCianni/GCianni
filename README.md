@@ -1,6 +1,6 @@
 # Hello there 💻📈
 #### 
-My Name is Gabriel Cianni, I'm 24, living in Brazil! I'm currently working as a Machine Learning Researcher currently responsible for develop intelligent models to optimize failure predicture in software's testing 
+My Name is Gabriel Cianni, I'm 24, living in Brazil! I'm currently working as a Machine Learning Researcher currently responsible for develop intelligent models to optimize failure predicture in DELL's softwares testing environments
 
 Currently, I am pursuing a Master's degree in Electrical Engineering, specializing in the same field as my undergraduate studies.During my university years, I spent approximately four years working in the Electro-Electronic Instrumentation and Artificial Intelligence Lab (IEE-IA). During this time, I engaged in extensive research and practical applications of various Machine Learning algorithms for the analysis of bio-signals, including EMG and EEG data. IEE-IA played a pivotal role in my academic journey, serving as the home for my monograph. For my monograph project, I developed intelligent meta-classification systems for predicting faults in electric motors, employing state-of-the-art algorithms and advanced meta-heuristic techniques. My experience at IEE-IA not only solidified my knowledge in the field of Artificial Intelligence and Machine Learning but also allowed me to explore cutting-edge applications of these technologies in the domain of electrical engineering.
 
